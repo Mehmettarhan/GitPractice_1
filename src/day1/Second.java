@@ -2,6 +2,7 @@ package day1;
 
 public class Second {
     public static void main(String[] args) {
+        System.out.println("Kizamin have fun in Milwaukee");
 
         // work 1 is done here
         // Zahra is gone today
